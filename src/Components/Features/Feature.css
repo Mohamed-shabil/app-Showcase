@@ -1,0 +1,31 @@
+.feature_container{
+    padding-top: 100px;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-color: #F4F3FC;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.left_image{
+    width: 50%;
+    height: 100vh;
+    display:grid;
+    place-items: center;
+}
+.Screens_image{
+    width: 80%;
+}
+.right_content{
+    padding-top: 100px;
+    width: 50%;
+    height: 100vh;
+}
+.right_content h2{
+    font-weight: 500;
+}
+
+
+
